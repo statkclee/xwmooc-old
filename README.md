@@ -12,11 +12,11 @@ Douglas Rushkoff, SXSW 2010: [Program or be Programmed: Ten Commands for a Digit
 
 xwMOOC 프로젝트는 소프트웨어 교육관련 전세계적으로 우수한 콘텐츠를 큐레이션하여 한글화 및 무료로 공개하여 소프트웨어에 대한 관심과 세상을 바꿔보겠다는 열정을 가진 모든 분들께 작은 보템이 되고자 합니다.
 
-[언플러그드 컴퓨터 과학](http://statkclee.github.io/csunplugged-md/csunplugged/)
-[정보교육을 위한 파이썬](http://python.xwmooc.net/)
-[러플(Rur-Ple)](http://rur-ple.xwmooc.net/)
-[소프트웨어 카펜트리](http://statkclee.github.io/2015-02-25-seoul/)
-스크래치(예정)
+- [언플러그드 컴퓨터 과학](http://statkclee.github.io/csunplugged-md/csunplugged/)
+- [정보교육을 위한 파이썬](http://python.xwmooc.net/)
+- [러플(Rur-Ple)](http://rur-ple.xwmooc.net/)
+- [소프트웨어 카펜트리](http://statkclee.github.io/2015-02-25-seoul/)
+- 스크래치(예정)
 
 ## License
 The contents of this repository are licensed under the [Apache

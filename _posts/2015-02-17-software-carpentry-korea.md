@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 img: rapa.jpg
 category: Services
 title: 디지털 콘텐츠 소프트웨어 카펜트리 교육 안내
